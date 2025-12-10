@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I'm Lucas
 
-<!--
-**LucasBlizzard/LucasBlizzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Indie Game Developer** focused on building polished gameplay experiences in **Unity**.  
+I love making games and worlds that can imerse the player to a unique and fun experience.
 
-Here are some ideas to get you started:
+I aspire to work in a AAA company for C# programming in Unity or Game Desingn/Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎮 What I Work On
+- Unity 2D & 3D game development  
+- Pixel art and animation  
+- Gameplay systems & tools  
+- Prototyping game ideas quickly  
+- Small polished projects for Itch.io
+
+---
+
+## 🛠 Skills
+**Programming:** C#, Unity  
+**Art:** Blender  
+**Other:** Game Design, Rapid Prototyping, Video Editing (Basic Premiere Pro), Basic Animation
+
+---
+
+## 🔗 My Links(Itchio,ArtStation,Github)
+👉 **https://linktr.ee/lucasblizzard**
