@@ -9,17 +9,15 @@ I aspire to work in a AAA company for C# programming in Unity or Game Desingn/De
 
 ## 🎮 What I Work On
 - Unity 2D & 3D game development  
-- Pixel art and animation  
 - Gameplay systems & tools  
 - Prototyping game ideas quickly  
-- Small polished projects for Itch.io
 
 ---
 
 ## 🛠 Skills
 **Programming:** C#, Unity  
 **Art:** Blender  
-**Other:** Game Design, Rapid Prototyping, Video Editing (Basic Premiere Pro), Basic Animation
+**Other:** Game Design, Rapid Prototyping, Video Editing (Basic Premiere Pro)
 
 ---
 
